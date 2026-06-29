@@ -18,7 +18,7 @@ AI Platform Engineer at AYANA — building and running a production multi-surfac
 
 **Multi-agent fleet** — seven stakeholder LLM agents on Telegram and an ops dashboard, with per-profile systemd unit templates and a 3-layer skill-drift guardrail.
 
-**Custom eval harness (AQUA)** — decoupled from LangChain to support current-gen reasoning models; KB snapshot/live/cached modes, TTFT tracking, multi-provider, warehouse-stored results.
+**Eval harness (Langsmith)** — used Langsmith as an evaluation framework; TTFT tracking, multi-provider, warehouse-stored results.
 
 ---
 
@@ -48,4 +48,4 @@ AI Platform Engineer at AYANA — building and running a production multi-surfac
 
 ---
 
-**Languages:** English · Indonesian · Spanish · Dutch (working)
+**Languages:** English · Indonesian
